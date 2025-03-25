@@ -8,17 +8,69 @@
 
 /* Begin PBXBuildFile section */
 		F3F537282D92948B004F13BA /* SwiftUI_MinigolfApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537272D92948B004F13BA /* SwiftUI_MinigolfApp.swift */; };
-		F3F5372A2D92948B004F13BA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537292D92948B004F13BA /* ContentView.swift */; };
 		F3F5372C2D92948D004F13BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3F5372B2D92948D004F13BA /* Assets.xcassets */; };
 		F3F5372F2D92948D004F13BA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3F5372E2D92948D004F13BA /* Preview Assets.xcassets */; };
+		F3F537522D92952A004F13BA /* TextFormatting1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537372D929528004F13BA /* TextFormatting1.swift */; };
+		F3F537532D92952A004F13BA /* TextFormattingSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537382D929529004F13BA /* TextFormattingSummary.swift */; };
+		F3F537542D92952A004F13BA /* TextFormatting4.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537392D929529004F13BA /* TextFormatting4.swift */; };
+		F3F537552D92952A004F13BA /* ButtonLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F5373A2D929529004F13BA /* ButtonLayout.swift */; };
+		F3F537562D92952A004F13BA /* Rings2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F5373B2D929529004F13BA /* Rings2.swift */; };
+		F3F537572D92952A004F13BA /* TextSizing.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F5373C2D929529004F13BA /* TextSizing.swift */; };
+		F3F537582D92952A004F13BA /* TextSizingSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F5373D2D929529004F13BA /* TextSizingSummary.swift */; };
+		F3F537592D92952A004F13BA /* TextFormatting2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F5373E2D929529004F13BA /* TextFormatting2.swift */; };
+		F3F5375A2D92952A004F13BA /* Rings1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F5373F2D929529004F13BA /* Rings1.swift */; };
+		F3F5375B2D92952A004F13BA /* TextSizing3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537402D929529004F13BA /* TextSizing3.swift */; };
+		F3F5375C2D92952A004F13BA /* Challenges.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537412D929529004F13BA /* Challenges.swift */; };
+		F3F5375D2D92952A004F13BA /* ColorDarker.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537422D929529004F13BA /* ColorDarker.swift */; };
+		F3F5375E2D92952A004F13BA /* Rings3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537432D929529004F13BA /* Rings3.swift */; };
+		F3F5375F2D92952A004F13BA /* TextFormatting3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537442D929529004F13BA /* TextFormatting3.swift */; };
+		F3F537602D92952A004F13BA /* TextSizing4.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537452D929529004F13BA /* TextSizing4.swift */; };
+		F3F537612D92952A004F13BA /* ChallengeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537462D929529004F13BA /* ChallengeView.swift */; };
+		F3F537622D92952A004F13BA /* TextSizing2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537472D929529004F13BA /* TextSizing2.swift */; };
+		F3F537632D92952A004F13BA /* count.sh in Resources */ = {isa = PBXBuildFile; fileRef = F3F537482D929529004F13BA /* count.sh */; };
+		F3F537642D92952A004F13BA /* ButtonLayout3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537492D929529004F13BA /* ButtonLayout3.swift */; };
+		F3F537652D92952A004F13BA /* ButtonLayout2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F5374A2D929529004F13BA /* ButtonLayout2.swift */; };
+		F3F537672D92952A004F13BA /* Rings4.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F5374C2D929529004F13BA /* Rings4.swift */; };
+		F3F537682D92952A004F13BA /* Rings.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F5374D2D92952A004F13BA /* Rings.swift */; };
+		F3F5376A2D92952A004F13BA /* TextSizing1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F5374F2D92952A004F13BA /* TextSizing1.swift */; };
+		F3F5376B2D92952A004F13BA /* TextFormatting.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537502D92952A004F13BA /* TextFormatting.swift */; };
+		F3F5376C2D92952A004F13BA /* ButtonLayout1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537512D92952A004F13BA /* ButtonLayout1.swift */; };
+		F3F537722D92969B004F13BA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F537712D92969B004F13BA /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F3F537242D92948B004F13BA /* SwiftUI-Minigolf.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Minigolf.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3F537272D92948B004F13BA /* SwiftUI_MinigolfApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_MinigolfApp.swift; sourceTree = "<group>"; };
-		F3F537292D92948B004F13BA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F3F5372B2D92948D004F13BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F3F5372E2D92948D004F13BA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F3F537352D9294E3004F13BA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F3F537362D9294E3004F13BA /* qr_code.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = qr_code.png; sourceTree = "<group>"; };
+		F3F537372D929528004F13BA /* TextFormatting1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFormatting1.swift; sourceTree = "<group>"; };
+		F3F537382D929529004F13BA /* TextFormattingSummary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFormattingSummary.swift; sourceTree = "<group>"; };
+		F3F537392D929529004F13BA /* TextFormatting4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFormatting4.swift; sourceTree = "<group>"; };
+		F3F5373A2D929529004F13BA /* ButtonLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonLayout.swift; sourceTree = "<group>"; };
+		F3F5373B2D929529004F13BA /* Rings2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Rings2.swift; sourceTree = "<group>"; };
+		F3F5373C2D929529004F13BA /* TextSizing.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextSizing.swift; sourceTree = "<group>"; };
+		F3F5373D2D929529004F13BA /* TextSizingSummary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextSizingSummary.swift; sourceTree = "<group>"; };
+		F3F5373E2D929529004F13BA /* TextFormatting2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFormatting2.swift; sourceTree = "<group>"; };
+		F3F5373F2D929529004F13BA /* Rings1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Rings1.swift; sourceTree = "<group>"; };
+		F3F537402D929529004F13BA /* TextSizing3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextSizing3.swift; sourceTree = "<group>"; };
+		F3F537412D929529004F13BA /* Challenges.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Challenges.swift; sourceTree = "<group>"; };
+		F3F537422D929529004F13BA /* ColorDarker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorDarker.swift; sourceTree = "<group>"; };
+		F3F537432D929529004F13BA /* Rings3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Rings3.swift; sourceTree = "<group>"; };
+		F3F537442D929529004F13BA /* TextFormatting3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFormatting3.swift; sourceTree = "<group>"; };
+		F3F537452D929529004F13BA /* TextSizing4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextSizing4.swift; sourceTree = "<group>"; };
+		F3F537462D929529004F13BA /* ChallengeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChallengeView.swift; sourceTree = "<group>"; };
+		F3F537472D929529004F13BA /* TextSizing2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextSizing2.swift; sourceTree = "<group>"; };
+		F3F537482D929529004F13BA /* count.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = count.sh; sourceTree = "<group>"; };
+		F3F537492D929529004F13BA /* ButtonLayout3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonLayout3.swift; sourceTree = "<group>"; };
+		F3F5374A2D929529004F13BA /* ButtonLayout2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonLayout2.swift; sourceTree = "<group>"; };
+		F3F5374C2D929529004F13BA /* Rings4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Rings4.swift; sourceTree = "<group>"; };
+		F3F5374D2D92952A004F13BA /* Rings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Rings.swift; sourceTree = "<group>"; };
+		F3F5374F2D92952A004F13BA /* TextSizing1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextSizing1.swift; sourceTree = "<group>"; };
+		F3F537502D92952A004F13BA /* TextFormatting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFormatting.swift; sourceTree = "<group>"; };
+		F3F537512D92952A004F13BA /* ButtonLayout1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonLayout1.swift; sourceTree = "<group>"; };
+		F3F537712D92969B004F13BA /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +87,8 @@
 		F3F5371B2D92948B004F13BA = {
 			isa = PBXGroup;
 			children = (
+				F3F537362D9294E3004F13BA /* qr_code.png */,
+				F3F537352D9294E3004F13BA /* README.md */,
 				F3F537262D92948B004F13BA /* SwiftUI-Minigolf */,
 				F3F537252D92948B004F13BA /* Products */,
 			);
@@ -51,8 +105,33 @@
 		F3F537262D92948B004F13BA /* SwiftUI-Minigolf */ = {
 			isa = PBXGroup;
 			children = (
+				F3F537712D92969B004F13BA /* ContentView.swift */,
+				F3F5373A2D929529004F13BA /* ButtonLayout.swift */,
+				F3F537512D92952A004F13BA /* ButtonLayout1.swift */,
+				F3F5374A2D929529004F13BA /* ButtonLayout2.swift */,
+				F3F537492D929529004F13BA /* ButtonLayout3.swift */,
+				F3F537412D929529004F13BA /* Challenges.swift */,
+				F3F537462D929529004F13BA /* ChallengeView.swift */,
+				F3F537422D929529004F13BA /* ColorDarker.swift */,
+				F3F537482D929529004F13BA /* count.sh */,
+				F3F5374D2D92952A004F13BA /* Rings.swift */,
+				F3F5373F2D929529004F13BA /* Rings1.swift */,
+				F3F5373B2D929529004F13BA /* Rings2.swift */,
+				F3F537432D929529004F13BA /* Rings3.swift */,
+				F3F5374C2D929529004F13BA /* Rings4.swift */,
+				F3F537502D92952A004F13BA /* TextFormatting.swift */,
+				F3F537372D929528004F13BA /* TextFormatting1.swift */,
+				F3F5373E2D929529004F13BA /* TextFormatting2.swift */,
+				F3F537442D929529004F13BA /* TextFormatting3.swift */,
+				F3F537392D929529004F13BA /* TextFormatting4.swift */,
+				F3F537382D929529004F13BA /* TextFormattingSummary.swift */,
+				F3F5373C2D929529004F13BA /* TextSizing.swift */,
+				F3F5374F2D92952A004F13BA /* TextSizing1.swift */,
+				F3F537472D929529004F13BA /* TextSizing2.swift */,
+				F3F537402D929529004F13BA /* TextSizing3.swift */,
+				F3F537452D929529004F13BA /* TextSizing4.swift */,
+				F3F5373D2D929529004F13BA /* TextSizingSummary.swift */,
 				F3F537272D92948B004F13BA /* SwiftUI_MinigolfApp.swift */,
-				F3F537292D92948B004F13BA /* ContentView.swift */,
 				F3F5372B2D92948D004F13BA /* Assets.xcassets */,
 				F3F5372D2D92948D004F13BA /* Preview Content */,
 			);
@@ -126,6 +205,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F3F5372F2D92948D004F13BA /* Preview Assets.xcassets in Resources */,
+				F3F537632D92952A004F13BA /* count.sh in Resources */,
 				F3F5372C2D92948D004F13BA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +217,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F3F5372A2D92948B004F13BA /* ContentView.swift in Sources */,
+				F3F537542D92952A004F13BA /* TextFormatting4.swift in Sources */,
+				F3F5375E2D92952A004F13BA /* Rings3.swift in Sources */,
+				F3F537582D92952A004F13BA /* TextSizingSummary.swift in Sources */,
+				F3F5376C2D92952A004F13BA /* ButtonLayout1.swift in Sources */,
+				F3F5375D2D92952A004F13BA /* ColorDarker.swift in Sources */,
+				F3F5376B2D92952A004F13BA /* TextFormatting.swift in Sources */,
+				F3F537572D92952A004F13BA /* TextSizing.swift in Sources */,
+				F3F537612D92952A004F13BA /* ChallengeView.swift in Sources */,
+				F3F537652D92952A004F13BA /* ButtonLayout2.swift in Sources */,
+				F3F537532D92952A004F13BA /* TextFormattingSummary.swift in Sources */,
+				F3F537722D92969B004F13BA /* ContentView.swift in Sources */,
+				F3F537622D92952A004F13BA /* TextSizing2.swift in Sources */,
+				F3F537562D92952A004F13BA /* Rings2.swift in Sources */,
+				F3F5375C2D92952A004F13BA /* Challenges.swift in Sources */,
+				F3F537672D92952A004F13BA /* Rings4.swift in Sources */,
+				F3F5375B2D92952A004F13BA /* TextSizing3.swift in Sources */,
+				F3F537602D92952A004F13BA /* TextSizing4.swift in Sources */,
+				F3F537642D92952A004F13BA /* ButtonLayout3.swift in Sources */,
+				F3F537552D92952A004F13BA /* ButtonLayout.swift in Sources */,
+				F3F537682D92952A004F13BA /* Rings.swift in Sources */,
 				F3F537282D92948B004F13BA /* SwiftUI_MinigolfApp.swift in Sources */,
+				F3F537592D92952A004F13BA /* TextFormatting2.swift in Sources */,
+				F3F5376A2D92952A004F13BA /* TextSizing1.swift in Sources */,
+				F3F5375F2D92952A004F13BA /* TextFormatting3.swift in Sources */,
+				F3F537522D92952A004F13BA /* TextFormatting1.swift in Sources */,
+				F3F5375A2D92952A004F13BA /* Rings1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,6 +383,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -307,6 +412,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
