@@ -3,7 +3,9 @@
 
 A CocoaHeads Aachen workshop
 
-Date: 2025-03-27
+Date part 1: 2025-03-27
+
+Date part 2: 2025-07-24
 
 Author: Roland Schmitz
 
